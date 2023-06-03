@@ -1,5 +1,5 @@
 # DSL
-This is our pytorch implemention for our CIKM2023 paper:
+This is our pytorch implemention for our DSL:
 
 ## Environment Requirement
 
